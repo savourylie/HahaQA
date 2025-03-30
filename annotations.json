@@ -1,0 +1,26 @@
+[
+  {
+    "filename": "img_0001.jpg",
+    "language": "en",
+    "tags": ["misunderstanding", "STEM humor"],
+    "choices": [
+      "The comic is funny because the astronaut doesn't know how to count properly and is embarrassed when corrected by the more knowledgeable orange-haired character.",
+      "The humor stems from the fact that every number system is \"base 10\" in its own representation, creating a paradoxical conversation where both characters believe they're talking about different systems.",
+      "The comic is satirizing how scientists overcomplicate simple tasks - counting to 10 shouldn't require discussion of mathematical base systems, showing how academics make everyday life unnecessarily complex.",
+      "Because the alien doesn't know what base 4 is."
+    ],
+    "answer": 1
+  },
+  {
+    "filename": "img_0002.jpg",
+    "language": "zh",
+    "tags": ["mythology", "pop culture", "Chinese humor"],
+    "choices": [
+      "The joke is that the fake Monkey King is exposed because he owns numerous cheap, knock-off earbuds, while the real Sun Wukong has genuine, expensive Apple AirPods, highlighting consumer culture.",
+      "The humor comes from identifying the fake Monkey King based on him possessing six earbuds, while the real one has the standard amount.",
+      "The comic is funny simply because it mixes an ancient Chinese legend with modern technology (wireless earbuds), creating an absurd anachronism.",
+      "The humor lies in Buddha's surprisingly mundane solution ('check their bags') to a legendary problem, bypassing any need for divine powers or insight to identify the imposter."
+    ],
+    "answer": 1
+  }
+]
